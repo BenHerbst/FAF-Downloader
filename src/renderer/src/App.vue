@@ -1,4 +1,5 @@
 <template>
+  <p>Router Works!</p>
   <RouterView></RouterView>
 </template>
 

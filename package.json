@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@electron/notarize": "^1.2.3",
+    "@mdi/font": "^7.1.96",
     "@rushstack/eslint-patch": "^1.2.0",
     "@vitejs/plugin-vue": "^4.0.0",
     "@vue/eslint-config-prettier": "^7.0.0",

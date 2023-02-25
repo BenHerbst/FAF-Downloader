@@ -20,17 +20,23 @@ const vuetify = createVuetify({
     defaultSet: 'mdi',
     aliases,
     sets: {
-        mdi
+      mdi
     }
   },
   theme: {
     themes: {
-        light: {
-            dark: false,
-            colors: {
-                secondary: colors.blueGrey.lighten4
-            }
+      light: {
+        dark: false,
+        colors: {
+          secondary: colors.blueGrey.lighten4
         }
+      },
+      dark: {
+        colors: {
+          primary: colors.purple.lighten1,
+          secondary: colors.grey.darken3
+        }
+      }
     }
   }
 })

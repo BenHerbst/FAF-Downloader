@@ -9,6 +9,7 @@ import * as components from 'vuetify/components'
 import * as directives from 'vuetify/directives'
 import colors from 'vuetify/lib/util/colors'
 import { createPinia } from 'pinia'
+import "./assets/css/main.scss"
 
 const app = createApp(App)
 

@@ -10,9 +10,9 @@
 
       <!-- other menu items -->
       <v-list density="compact" nav active-color="primary" mandatory>
-        <v-list-item prepend-icon="mdi-call-split" title="Parallel Mode" value="parallel"></v-list-item>
-        <v-list-item prepend-icon="mdi-animation" title="Single Mode" value="single"></v-list-item>
-        <v-list-item prepend-icon="mdi-cog" title="Settings" value="settings"></v-list-item>
+        <v-list-item prepend-icon="mdi-call-split" title="Parallel Mode" value="parallel" @click="this.$router.push('/')"></v-list-item>
+        <v-list-item prepend-icon="mdi-animation" title="Single Mode" value="single" @click="this.$router.push('/single')"></v-list-item>
+        <v-list-item prepend-icon="mdi-cog" title="Settings" value="settings" @click="this.$router.push('/settings')"></v-list-item>
       </v-list>
 
       <template v-slot:append>

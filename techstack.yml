@@ -2,7 +2,7 @@ repo_name: BenHerbst/FAF-Downloader
 report_id: 7fa53b2b8939ede0dc434c7a1fa5805c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:20:49+00:00'
+timestamp: '2024-02-29T19:06:32+00:00'
 requested_by: BenHerbst
 provider: github
 branch: master
@@ -112,7 +112,7 @@ tools:
   detection_source_url: https://github.com/BenHerbst/FAF-Downloader
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.4
   license: MIT
@@ -217,6 +217,13 @@ tools:
   last_updated_by: Ben Herbst
   last_updated_on: 2023-02-24 19:55:58.000000000 Z
   vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
   - name: Vite Server Options (server.fs.deny) can be bypassed using double forward-slash
       (//)
     cve_id: CVE-2023-34092

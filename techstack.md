@@ -3,13 +3,13 @@
 ## Tech Stack
 BenHerbst/FAF-Downloader is built on the following main stack:
 
-- [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
-- [ESLint](http://eslint.org/) – Code Review
+- [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [Vue.js](http://vuejs.org/) – Javascript UI Libraries
 - [Vuetify](https://vuetifyjs.com/) – Front-End Frameworks
+- [ESLint](http://eslint.org/) – Code Review
 - [Prettier](https://prettier.io/) – Code Review
 - [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 
@@ -21,13 +21,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 BenHerbst/FAF-Downloader is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2946/default_18a71b65e69d7aef5f218ae07f64eb6e1594c444.jpg' alt='Electron'/> [Electron](http://electron.atom.io/) – Cross-Platform Desktop Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/6163/PzNbCwXH.jpg' alt='Vuetify'/> [Vuetify](https://vuetifyjs.com/) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [BenHerbst/FAF-Downloader](https://github.com/BenHerbst/FAF-Downloader)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|18<br/>Tools used|01/05/24 <br/>Report generated|
+|18<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -170,7 +170,7 @@ Full tech stack [here](/techstack.md)
 |[@vue/eslint-config-prettier](https://www.npmjs.com/@vue/eslint-config-prettier)|v7.1.0|02/24/23|Ben Herbst |MIT|N/A|
 |[electron-builder](https://www.npmjs.com/electron-builder)|v23.6.0|02/24/23|Ben Herbst |MIT|N/A|
 |[eslint-plugin-vue](https://www.npmjs.com/eslint-plugin-vue)|v9.9.0|02/24/23|Ben Herbst |MIT|N/A|
-|[vite](https://www.npmjs.com/vite)|v4.1.4|02/24/23|Ben Herbst |N/A|[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
+|[vite](https://www.npmjs.com/vite)|v4.1.4|02/24/23|Ben Herbst |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)<br/>[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
 |[vue](https://www.npmjs.com/vue)|v3.2.47|02/24/23|Ben Herbst |MIT|N/A|
 |[vue-router](https://www.npmjs.com/vue-router)|v4.1.6|02/24/23|Ben Herbst |MIT|N/A|
 
